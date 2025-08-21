@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-- 💻 I specialize in **React, Next.js, and TypeScript**  
+- 💻 I specialize in **React, Angular, and TypeScript**  
 - 🎨 Passionate about building **modern, responsive UIs** with **Tailwind CSS**  
 - ⚡ Experienced with **Formik, Yup, Redux Toolkit, Axios, TanStack Query**  
 - 🔔 Exploring **Firebase Cloud Messaging** & **backend with Node.js/Express**  
